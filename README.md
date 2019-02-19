@@ -6,4 +6,5 @@ Boilerplate of cocos2d-js.
 - android-ndk-r16b
 - Python 2.7.15
 - Android Studio 3.2.1
+- WebStorm 2018.3.4
 - Windows 10
